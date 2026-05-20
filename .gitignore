@@ -1,0 +1,16 @@
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Claude
+.claude/
+
+# 個人の単語メモ（生データはローカルだけに残す。整形済みのvocab.jsはリポジトリに含める）
+*メモ.txt

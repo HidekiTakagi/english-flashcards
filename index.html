@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>英会話メモ 単語学習アプリ</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>英会話メモ 単語学習</h1>
+    <div class="progress">
+      <span id="progress-text">1 / 20</span>
+      <span id="known-count" class="known-count">覚えた: 0</span>
+    </div>
+  </header>
+
+  <main>
+    <div class="card" id="card">
+      <div class="card-inner" id="card-inner">
+        <div class="card-face card-front">
+          <div class="word" id="word">word</div>
+          <button class="speak-btn" id="speak-word" title="単語を読み上げ">🔊</button>
+          <div class="hint">タップで答えを表示</div>
+        </div>
+        <div class="card-face card-back">
+          <div class="word-back" id="word-back">word</div>
+          <div class="meaning" id="meaning">意味</div>
+          <div class="example-box">
+            <div class="example-en" id="example-en">
+              <span class="example-text" id="example-en-text"></span>
+              <button class="speak-btn-small" id="speak-example" title="例文を読み上げ">🔊</button>
+            </div>
+            <div class="example-ja" id="example-ja"></div>
+          </div>
+          <div class="note" id="note"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="controls">
+      <button id="prev-btn" class="btn-nav">← 前</button>
+      <button id="known-btn" class="btn-known">覚えた ✓</button>
+      <button id="unknown-btn" class="btn-unknown">まだ ✗</button>
+      <button id="next-btn" class="btn-nav">次 →</button>
+    </div>
+
+    <div class="actions">
+      <button id="flip-btn">表/裏 反転</button>
+      <button id="shuffle-btn">シャッフル</button>
+      <button id="reset-btn">リセット</button>
+      <label class="filter-label">
+        <input type="checkbox" id="only-unknown">
+        覚えてない単語のみ
+      </label>
+    </div>
+  </main>
+
+  <footer>
+    <div class="hint-text">
+      キーボード: ← → でカード移動 / Space で表裏 / K=覚えた / U=まだ / S で発音
+    </div>
+  </footer>
+
+  <script src="vocab.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
