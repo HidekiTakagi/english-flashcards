@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-05-20",
+  "updated": "2026-05-21",
   "words": [
     {
       "word": "bucket list",
@@ -161,6 +161,174 @@
       "example_ja": "彼らは来月の結婚式に私たちを招待してくれました。",
       "note": "元メモ「invate」を「invite」と推定（要確認）",
       "added": "2026-05-20"
+    },
+    {
+      "word": "gorgeous",
+      "meaning": "華やかな、豪華な、とても美しい",
+      "example_en": "She wore a gorgeous dress to the wedding.",
+      "example_ja": "彼女は結婚式に華やかなドレスを着て行きました。",
+      "note": "",
+      "added": "2026-05-21"
+    },
+    {
+      "word": "fortune teller",
+      "meaning": "占い師",
+      "example_en": "My grandmother visited a fortune teller every New Year.",
+      "example_ja": "祖母は毎年新年に占い師を訪ねていました。",
+      "note": "",
+      "added": "2026-05-21"
+    },
+    {
+      "word": "shocking",
+      "meaning": "衝撃的な、ショッキングな",
+      "example_en": "The news of his sudden resignation was shocking.",
+      "example_ja": "彼の突然の辞任のニュースは衝撃的でした。",
+      "note": "",
+      "added": "2026-05-21"
+    },
+    {
+      "word": "patriot",
+      "meaning": "愛国者、(歴史的文脈で)志士",
+      "example_en": "He is remembered as a true patriot who fought for his country.",
+      "example_ja": "彼は祖国のために戦った真の愛国者として記憶されています。",
+      "note": "",
+      "added": "2026-05-21"
+    },
+    {
+      "word": "disciple",
+      "meaning": "弟子、信奉者",
+      "example_en": "The famous chef has many disciples around the world.",
+      "example_ja": "その有名なシェフには世界中に多くの弟子がいます。",
+      "note": "",
+      "added": "2026-05-21"
+    },
+    {
+      "word": "serious",
+      "meaning": "真面目な、深刻な",
+      "example_en": "He has a serious attitude toward his work.",
+      "example_ja": "彼は仕事に対して真面目な態度を持っています。",
+      "note": "",
+      "added": "2026-05-21"
+    },
+    {
+      "word": "flexible",
+      "meaning": "柔軟な、融通のきく",
+      "example_en": "She has a flexible schedule and can meet anytime.",
+      "example_ja": "彼女のスケジュールは柔軟で、いつでも会えます。",
+      "note": "元メモ「frexible」のtypoを修正",
+      "added": "2026-05-21"
+    },
+    {
+      "word": "emotional",
+      "meaning": "感情的な、情緒豊かな",
+      "example_en": "She tends to get emotional when talking about her family.",
+      "example_ja": "彼女は家族の話をすると感情的になりがちです。",
+      "note": "",
+      "added": "2026-05-21"
+    },
+    {
+      "word": "sensitive",
+      "meaning": "敏感な、繊細な、傷つきやすい",
+      "example_en": "He is sensitive to other people's feelings.",
+      "example_ja": "彼は他人の気持ちに敏感です。",
+      "note": "",
+      "added": "2026-05-21"
+    },
+    {
+      "word": "creepy",
+      "meaning": "気味の悪い、ゾッとするような",
+      "example_en": "The old house had a creepy atmosphere.",
+      "example_ja": "その古い家は気味の悪い雰囲気だった。",
+      "note": "元メモ「クリーパー」を「creepy」と推定（要確認）。名詞形 creeper は「気味の悪い人/つる植物」",
+      "added": "2026-05-21"
+    },
+    {
+      "word": "competitive",
+      "meaning": "競争心が強い、競争的な、競合力のある",
+      "example_en": "My brother is very competitive about everything.",
+      "example_ja": "弟は何においても競争心がとても強いです。",
+      "note": "",
+      "added": "2026-05-21"
+    },
+    {
+      "word": "strict",
+      "meaning": "厳しい、厳格な",
+      "example_en": "Our teacher is strict but fair.",
+      "example_ja": "私たちの先生は厳しいけれど公平です。",
+      "note": "",
+      "added": "2026-05-21"
+    },
+    {
+      "word": "focus on",
+      "meaning": "～に集中する、～に焦点を当てる",
+      "example_en": "Let's focus on the most important task first.",
+      "example_ja": "まず最も重要な仕事に集中しましょう。",
+      "note": "元メモ「forcus on」のtypoを修正",
+      "added": "2026-05-21"
+    },
+    {
+      "word": "indecisive",
+      "meaning": "優柔不断な、決断力のない",
+      "example_en": "He is indecisive when ordering at restaurants.",
+      "example_ja": "彼はレストランで注文するとき優柔不断です。",
+      "note": "",
+      "added": "2026-05-21"
+    },
+    {
+      "word": "weakness",
+      "meaning": "弱点、欠点、弱さ",
+      "example_en": "Speaking in front of people is my biggest weakness.",
+      "example_ja": "人前で話すことが私の最大の弱点です。",
+      "note": "元メモ「Weaknesshandover」を Weakness と handover に分離",
+      "added": "2026-05-21"
+    },
+    {
+      "word": "handover",
+      "meaning": "引き継ぎ、引き渡し",
+      "example_en": "The project handover will take place next Friday.",
+      "example_ja": "プロジェクトの引き継ぎは来週の金曜日に行われます。",
+      "note": "元メモ「Weaknesshandover」から分離",
+      "added": "2026-05-21"
+    },
+    {
+      "word": "wallet",
+      "meaning": "財布",
+      "example_en": "I left my wallet at home this morning.",
+      "example_ja": "今朝、財布を家に置いてきてしまいました。",
+      "note": "",
+      "added": "2026-05-21"
+    },
+    {
+      "word": "smartphone",
+      "meaning": "スマートフォン、スマホ",
+      "example_en": "Most people check their smartphone first thing in the morning.",
+      "example_ja": "ほとんどの人は朝起きてまずスマートフォンをチェックします。",
+      "note": "",
+      "added": "2026-05-21"
+    },
+    {
+      "word": "luggage rack",
+      "meaning": "(電車などの)網棚、荷物棚",
+      "example_en": "I put my suitcase on the luggage rack above the seats.",
+      "example_ja": "座席の上の網棚にスーツケースを置きました。",
+      "note": "元メモ「train shelf」を「luggage rack」と推定（電車の網棚の意。train shelf は通じにくい表現）",
+      "added": "2026-05-21"
+    },
+    {
+      "word": "admire",
+      "meaning": "～に憧れる、～を称賛する、敬愛する",
+      "example_en": "I really admire her dedication to learning languages.",
+      "example_ja": "彼女の語学学習への熱心さを本当に尊敬しています。",
+      "note": "",
+      "added": "2026-05-21"
+    },
+    {
+      "word": "zodiac signs",
+      "meaning": "(星占いの)12星座、星座",
+      "example_en": "There are twelve zodiac signs in Western astrology.",
+      "example_ja": "西洋占星術には12の星座があります。",
+      "note": "元メモ「12星座」のトピックを英語で追加",
+      "added": "2026-05-21"
     }
   ]
 }
