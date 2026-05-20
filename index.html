@@ -21,7 +21,7 @@
         <div class="card-face card-front">
           <div class="word" id="word">word</div>
           <button class="speak-btn" id="speak-word" title="単語を読み上げ">🔊</button>
-          <div class="hint">タップで答えを表示</div>
+          <div class="hint" id="hint-message">タップで答えを表示</div>
         </div>
         <div class="card-face card-back">
           <div class="word-back" id="word-back">word</div>
@@ -46,6 +46,7 @@
     </div>
 
     <div class="actions">
+      <button id="add-btn" class="btn-primary">+ 単語追加</button>
       <button id="flip-btn">表/裏 反転</button>
       <button id="shuffle-btn">シャッフル</button>
       <button id="reset-btn">リセット</button>
@@ -56,13 +57,50 @@
     </div>
   </main>
 
+  <!-- 単語追加モーダル -->
+  <div class="modal" id="add-modal">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2>単語を追加</h2>
+        <button class="modal-close" id="close-modal" aria-label="閉じる">×</button>
+      </div>
+      <form id="add-form">
+        <label>
+          単語 / フレーズ <span class="required">*</span>
+          <input type="text" id="input-word" placeholder="例: bucket list" required>
+        </label>
+        <label>
+          意味 <span class="required">*</span>
+          <input type="text" id="input-meaning" placeholder="例: 死ぬまでにやりたいこと" required>
+        </label>
+        <label>
+          例文（英語）
+          <textarea id="input-example-en" rows="2" placeholder="例: Visiting Kyoto is on my bucket list."></textarea>
+        </label>
+        <label>
+          例文（日本語）
+          <textarea id="input-example-ja" rows="2" placeholder="例: 京都を訪れることは私のやりたいことリストにあります"></textarea>
+        </label>
+        <label>
+          メモ（任意）
+          <input type="text" id="input-note" placeholder="使い方の補足や出典など">
+        </label>
+
+        <div class="modal-actions">
+          <button type="button" id="configure-pat" class="btn-secondary">🔑 GitHubトークン設定</button>
+          <button type="submit" class="btn-primary">保存</button>
+        </div>
+        <div class="add-status" id="add-status"></div>
+      </form>
+    </div>
+  </div>
+
   <footer>
     <div class="hint-text">
       キーボード: ← → でカード移動 / Space で表裏 / K=覚えた / U=まだ / S で発音
     </div>
   </footer>
 
-  <script src="vocab.js"></script>
   <script src="app.js"></script>
 </body>
 </html>
