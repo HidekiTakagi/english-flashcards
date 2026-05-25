@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-05-21",
+  "updated": "2026-05-22",
   "words": [
     {
       "word": "bucket list",
@@ -329,6 +329,326 @@
       "example_ja": "西洋占星術には12の星座があります。",
       "note": "元メモ「12星座」のトピックを英語で追加",
       "added": "2026-05-21"
+    },
+    {
+      "word": "peninsula",
+      "meaning": "半島",
+      "example_en": "Japan's Boso Peninsula is famous for its beautiful coastline.",
+      "example_ja": "日本の房総半島は美しい海岸線で有名です。",
+      "note": "",
+      "added": "2026-05-22"
+    },
+    {
+      "word": "bluefin tuna",
+      "meaning": "クロマグロ、本マグロ",
+      "example_en": "Bluefin tuna is highly prized in Japanese cuisine.",
+      "example_ja": "クロマグロは日本料理で非常に珍重されています。",
+      "note": "",
+      "added": "2026-05-22"
+    },
+    {
+      "word": "delicious",
+      "meaning": "とても美味しい",
+      "example_en": "This sushi is absolutely delicious.",
+      "example_ja": "この寿司は本当に美味しいです。",
+      "note": "",
+      "added": "2026-05-22"
+    },
+    {
+      "word": "commute",
+      "meaning": "通勤(する)、通学(する)",
+      "example_en": "I commute to Tokyo by train every day.",
+      "example_ja": "私は毎日電車で東京に通勤しています。",
+      "note": "",
+      "added": "2026-05-22"
+    },
+    {
+      "word": "skyscraper",
+      "meaning": "超高層ビル、摩天楼",
+      "example_en": "Shinjuku is famous for its many skyscrapers.",
+      "example_ja": "新宿はたくさんの超高層ビルで有名です。",
+      "note": "",
+      "added": "2026-05-22"
+    },
+    {
+      "word": "Prices are rising.",
+      "meaning": "物価が上がっている。",
+      "example_en": "Prices are rising due to inflation.",
+      "example_ja": "インフレのせいで物価が上昇しています。",
+      "note": "現在進行形で「(継続的に)物価が上昇している」を表すフレーズ",
+      "added": "2026-05-22"
+    },
+    {
+      "word": "price of goods",
+      "meaning": "物価、商品の価格",
+      "example_en": "The price of goods has gone up sharply this year.",
+      "example_ja": "今年は物価が急激に上昇しました。",
+      "note": "",
+      "added": "2026-05-22"
+    },
+    {
+      "word": "headquarters",
+      "meaning": "本社、本部",
+      "example_en": "Our company's headquarters is located in Osaka.",
+      "example_ja": "私たちの会社の本社は大阪にあります。",
+      "note": "通常複数形だが単数扱い(headquarters is...)",
+      "added": "2026-05-22"
+    },
+    {
+      "word": "cost of living",
+      "meaning": "生活費、生活コスト",
+      "example_en": "The cost of living in Tokyo is very high.",
+      "example_ja": "東京の生活費はとても高いです。",
+      "note": "",
+      "added": "2026-05-22"
+    },
+    {
+      "word": "apartment",
+      "meaning": "アパート、マンション(の一室)",
+      "example_en": "I live in a small apartment near the station.",
+      "example_ja": "私は駅の近くの小さなアパートに住んでいます。",
+      "note": "米国では集合住宅の各戸を指す",
+      "added": "2026-05-22"
+    },
+    {
+      "word": "apartment building",
+      "meaning": "アパート(建物全体)、共同住宅",
+      "example_en": "They are building a new apartment building next to the park.",
+      "example_ja": "公園の隣に新しいアパートが建設されています。",
+      "note": "元メモ「apartment house」を「apartment building」と推定(建物全体を指す自然な英語)",
+      "added": "2026-05-22"
+    },
+    {
+      "word": "organize",
+      "meaning": "整理する、組織する、企画する",
+      "example_en": "I need to organize my desk before starting work.",
+      "example_ja": "仕事を始める前に机を整理する必要があります。",
+      "note": "元メモ「オーガナイズ」を英語化",
+      "added": "2026-05-22"
+    },
+    {
+      "word": "exhibit",
+      "meaning": "(動詞)展示する / (名詞)展示品",
+      "example_en": "The museum will exhibit Picasso's paintings next month.",
+      "example_ja": "美術館は来月ピカソの絵を展示します。",
+      "note": "元メモ「えぐじびっと」を英語化",
+      "added": "2026-05-22"
+    },
+    {
+      "word": "exhibition",
+      "meaning": "展示会、展覧会",
+      "example_en": "We went to a photography exhibition over the weekend.",
+      "example_ja": "週末に写真展に行きました。",
+      "note": "元メモ「絵ぐじびっしょん」を英語化",
+      "added": "2026-05-22"
+    },
+    {
+      "word": "florist",
+      "meaning": "花屋(の店員)、フローリスト",
+      "example_en": "The florist arranged a beautiful bouquet of roses.",
+      "example_ja": "花屋さんは美しいバラの花束を作ってくれました。",
+      "note": "花屋の店員や生花を扱う専門家を指す",
+      "added": "2026-05-22"
+    },
+    {
+      "word": "flower shop",
+      "meaning": "花屋(店舗)、生花店",
+      "example_en": "There is a small flower shop on the corner.",
+      "example_ja": "角に小さな花屋があります。",
+      "note": "",
+      "added": "2026-05-22"
+    },
+    {
+      "word": "condition",
+      "meaning": "状態、コンディション、条件",
+      "example_en": "The car is in excellent condition.",
+      "example_ja": "その車は非常に良いコンディションです。",
+      "note": "",
+      "added": "2026-05-22"
+    },
+    {
+      "word": "flower arrangement",
+      "meaning": "生け花、フラワーアレンジメント",
+      "example_en": "She studies traditional Japanese flower arrangement.",
+      "example_ja": "彼女は伝統的な日本の生け花を学んでいます。",
+      "note": "",
+      "added": "2026-05-22"
+    },
+    {
+      "word": "expand",
+      "meaning": "拡大する、広げる、膨張する",
+      "example_en": "The company is expanding its business overseas.",
+      "example_ja": "その会社は海外事業を拡大しています。",
+      "note": "元メモは「expanding」(現在分詞)。原形は expand",
+      "added": "2026-05-22"
+    },
+    {
+      "word": "spiral",
+      "meaning": "螺旋、らせん状の",
+      "example_en": "The staircase has a beautiful spiral design.",
+      "example_ja": "その階段は美しい螺旋のデザインです。",
+      "note": "",
+      "added": "2026-05-22"
+    },
+    {
+      "word": "vase",
+      "meaning": "花瓶、つぼ",
+      "example_en": "She put the roses in a glass vase.",
+      "example_ja": "彼女はバラをガラスの花瓶に挿しました。",
+      "note": "英: [vɑːz]、米: [veɪs] と発音が異なる",
+      "added": "2026-05-22"
+    },
+    {
+      "word": "borrow",
+      "meaning": "(無料で)借りる",
+      "example_en": "Can I borrow your pen for a moment?",
+      "example_ja": "少しペンを借りてもいいですか?",
+      "note": "lend(貸す)の反対。有料で借りる場合は rent",
+      "added": "2026-05-22"
+    },
+    {
+      "word": "branch",
+      "meaning": "枝、支店、部門",
+      "example_en": "The bird is sitting on the branch of the tree.",
+      "example_ja": "鳥が木の枝にとまっています。",
+      "note": "",
+      "added": "2026-05-22"
+    },
+    {
+      "word": "relief",
+      "meaning": "安堵、救済、(美術)レリーフ・浮き彫り",
+      "example_en": "It was a great relief to hear that everyone was safe.",
+      "example_ja": "皆が無事だと聞いて大いに安堵しました。",
+      "note": "元メモ「リリーフ」を英語化。文脈により意味が変わる",
+      "added": "2026-05-22"
+    },
+    {
+      "word": "tend to",
+      "meaning": "～しがちである、～する傾向がある",
+      "example_en": "I tend to drink too much coffee when I'm busy.",
+      "example_ja": "忙しいときはコーヒーを飲みすぎる傾向があります。",
+      "note": "",
+      "added": "2026-05-22"
+    },
+    {
+      "word": "painful",
+      "meaning": "痛い、苦痛な、つらい",
+      "example_en": "My back has been painful since yesterday.",
+      "example_ja": "昨日から背中が痛いです。",
+      "note": "",
+      "added": "2026-05-22"
+    },
+    {
+      "word": "Bishkek",
+      "meaning": "ビシュケク(キルギスタンの首都)",
+      "example_en": "Bishkek is the capital and largest city of Kyrgyzstan.",
+      "example_ja": "ビシュケクはキルギスタンの首都であり最大の都市です。",
+      "note": "元メモ「びっき」を「Bishkek」と推定(キルギスタン関連の話題に隣接していたため)。要確認",
+      "added": "2026-05-22"
+    },
+    {
+      "word": "Kyrgyzstan",
+      "meaning": "キルギスタン、キルギス共和国",
+      "example_en": "Kyrgyzstan is a mountainous country in Central Asia.",
+      "example_ja": "キルギスタンは中央アジアの山岳国家です。",
+      "note": "元メモ「きるぎすたん」を英語化",
+      "added": "2026-05-22"
+    },
+    {
+      "word": "running",
+      "meaning": "ランニング、走ること",
+      "example_en": "I go running every morning before work.",
+      "example_ja": "私は毎朝仕事前にランニングをします。",
+      "note": "元メモ「run人g」のtypoを修正",
+      "added": "2026-05-22"
+    },
+    {
+      "word": "gym",
+      "meaning": "ジム、体育館",
+      "example_en": "I work out at the gym three times a week.",
+      "example_ja": "週に3回ジムでトレーニングしています。",
+      "note": "元メモ「gi\\ym」のtypoを修正",
+      "added": "2026-05-22"
+    },
+    {
+      "word": "rainy season",
+      "meaning": "梅雨、雨季",
+      "example_en": "Japan's rainy season usually starts in early June.",
+      "example_ja": "日本の梅雨は通常6月上旬に始まります。",
+      "note": "",
+      "added": "2026-05-22"
+    },
+    {
+      "word": "heavy snow",
+      "meaning": "大雪、激しい雪",
+      "example_en": "Heavy snow caused trains to be delayed this morning.",
+      "example_ja": "今朝は大雪のため電車が遅延しました。",
+      "note": "元メモ「much snow」を「heavy snow」に修正(英語では a lot of snow / heavy snow が自然)",
+      "added": "2026-05-22"
+    },
+    {
+      "word": "free consultation",
+      "meaning": "無料相談、無料コンサルテーション",
+      "example_en": "The law firm offers a free consultation for new clients.",
+      "example_ja": "その法律事務所は新規依頼者に無料相談を提供しています。",
+      "note": "",
+      "added": "2026-05-22"
+    },
+    {
+      "word": "I had to go.",
+      "meaning": "行かなければならなかった。",
+      "example_en": "I had to go to the hospital yesterday.",
+      "example_ja": "昨日病院に行かなければなりませんでした。",
+      "note": "have to の過去形。義務・必要があったことを表す",
+      "added": "2026-05-22"
+    },
+    {
+      "word": "I couldn't make it on time.",
+      "meaning": "時間通りに間に合いませんでした。",
+      "example_en": "I couldn't make it on time because of the traffic jam.",
+      "example_ja": "渋滞のせいで時間通りに間に合いませんでした。",
+      "note": "make it = (場所などに)たどり着く、間に合う",
+      "added": "2026-05-22"
+    },
+    {
+      "word": "long line",
+      "meaning": "長い列、長蛇の列",
+      "example_en": "There was a long line of people waiting to board the bus.",
+      "example_ja": "バスに乗るために長い列ができていました。",
+      "note": "元メモ「Long line」「A long line to board the bus」を統合",
+      "added": "2026-05-22"
+    },
+    {
+      "word": "hail",
+      "meaning": "雹(ひょう)、あられ",
+      "example_en": "Hail damaged the windshield of my car.",
+      "example_ja": "雹で車のフロントガラスが破損しました。",
+      "note": "動詞では「雹が降る」",
+      "added": "2026-05-22"
+    },
+    {
+      "word": "panic",
+      "meaning": "パニックになる、慌てふためく",
+      "example_en": "Don't panic; everything will be fine.",
+      "example_ja": "慌てないで、すべて大丈夫だから。",
+      "note": "元メモ「ぱにっキング」(panicking)から原形を抽出。動名詞・現在分詞は panicking と k を挿入する",
+      "added": "2026-05-22"
+    },
+    {
+      "word": "hot water",
+      "meaning": "お湯、熱湯、(比喩で)苦境",
+      "example_en": "Please pour hot water into the cup.",
+      "example_ja": "カップにお湯を注いでください。",
+      "note": "元メモ「Hotwater」を2語に分離(英語では hot water とスペースを入れる)",
+      "added": "2026-05-22"
+    },
+    {
+      "word": "on the way to",
+      "meaning": "～へ向かう途中で",
+      "example_en": "I bought a coffee on the way to the airport.",
+      "example_ja": "空港へ向かう途中でコーヒーを買いました。",
+      "note": "元メモ「on the way to capital airport」のパターンを抽出。capital airport は「首都の空港」の意",
+      "added": "2026-05-22"
     }
   ]
 }
